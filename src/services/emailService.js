@@ -21,7 +21,7 @@ export const sendConsultationRequest = async (formData) => {
         message: formData.message,
 
         // Your email where Web3Forms sends the submission
-        email_to: 'rehanshahzad2023@gmail.com',
+        email_to: 'rehans@usquotehub.com',
       }),
     });
 
