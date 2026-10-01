@@ -2,7 +2,7 @@ export const COMPANY_INFO = {
  name: 'QuoteHub',
  tagline: 'We connect, you close',
  phone: '(720) 360-0096',
- email: 'rehans@usquotehub.com',
+ email: 'info@usquotehub.com',
 };
 
 export const SERVICES = [
